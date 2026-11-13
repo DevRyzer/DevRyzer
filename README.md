@@ -65,6 +65,6 @@ Coming soon...
 I'm available for freelance projects involving
 AI automation, API integrations and backend development.
 
-- LinkedIn: YOUR_LINKEDIN
-- Portfolio: YOUR_WEBSITE
-- Email: YOUR_EMAIL
+- LinkedIn: www.linkedin.com/in/iván-aarón-mendoza-argón
+- Portfolio: https://ivan-mendoza-dev.vercel.app/
+- Email: ivaninversetop@gmail.com
